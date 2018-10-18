@@ -6,6 +6,7 @@ int main()
 {
 	printf("First Contribution\n");
 
+	printf("Hi\n");
 	/* Please add something here */
     //hello 
 }
